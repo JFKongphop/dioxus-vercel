@@ -1,1 +1,0 @@
-/Users/kongphopkingpet/Documents/Github/dioxus-vercel/target/wasm32-unknown-unknown/release/dioxus-vercel.wasm: /Users/kongphopkingpet/Documents/Github/dioxus-vercel/src/app.rs /Users/kongphopkingpet/Documents/Github/dioxus-vercel/src/lib.rs /Users/kongphopkingpet/Documents/Github/dioxus-vercel/src/main.rs

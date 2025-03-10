@@ -1,1 +1,0 @@
-/Users/kongphopkingpet/Documents/Github/dioxus-vercel/target/debug/dioxus-vercel: /Users/kongphopkingpet/Documents/Github/dioxus-vercel/src/app.rs /Users/kongphopkingpet/Documents/Github/dioxus-vercel/src/lib.rs /Users/kongphopkingpet/Documents/Github/dioxus-vercel/src/main.rs
