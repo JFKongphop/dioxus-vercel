@@ -1,0 +1,1 @@
+/Users/kongphopkingpet/Desktop/codework/rust/dioxus-b/target/wasm32-unknown-unknown/wasm-dev/dioxus-b.wasm: /Users/kongphopkingpet/Desktop/codework/rust/dioxus-b/src/app.rs /Users/kongphopkingpet/Desktop/codework/rust/dioxus-b/src/lib.rs /Users/kongphopkingpet/Desktop/codework/rust/dioxus-b/src/main.rs

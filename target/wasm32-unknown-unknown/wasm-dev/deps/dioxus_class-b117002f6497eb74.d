@@ -1,0 +1,10 @@
+/Users/kongphopkingpet/Documents/Github/dioxus-vercel/target/wasm32-unknown-unknown/wasm-dev/deps/libdioxus_class-b117002f6497eb74.rmeta: /Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dioxus-class-0.8.0/src/lib.rs /Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dioxus-class-0.8.0/src/macros.rs /Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dioxus-class-0.8.0/src/build.rs /Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dioxus-class-0.8.0/src/../README.md
+
+/Users/kongphopkingpet/Documents/Github/dioxus-vercel/target/wasm32-unknown-unknown/wasm-dev/deps/libdioxus_class-b117002f6497eb74.rlib: /Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dioxus-class-0.8.0/src/lib.rs /Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dioxus-class-0.8.0/src/macros.rs /Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dioxus-class-0.8.0/src/build.rs /Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dioxus-class-0.8.0/src/../README.md
+
+/Users/kongphopkingpet/Documents/Github/dioxus-vercel/target/wasm32-unknown-unknown/wasm-dev/deps/dioxus_class-b117002f6497eb74.d: /Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dioxus-class-0.8.0/src/lib.rs /Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dioxus-class-0.8.0/src/macros.rs /Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dioxus-class-0.8.0/src/build.rs /Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dioxus-class-0.8.0/src/../README.md
+
+/Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dioxus-class-0.8.0/src/lib.rs:
+/Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dioxus-class-0.8.0/src/macros.rs:
+/Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dioxus-class-0.8.0/src/build.rs:
+/Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dioxus-class-0.8.0/src/../README.md:

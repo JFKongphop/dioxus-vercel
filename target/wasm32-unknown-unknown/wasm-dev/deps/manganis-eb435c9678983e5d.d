@@ -1,0 +1,10 @@
+/Users/kongphopkingpet/Desktop/codework/rust/dioxus-b/target/wasm32-unknown-unknown/wasm-dev/deps/libmanganis-eb435c9678983e5d.rmeta: /Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/manganis-0.6.2/src/lib.rs /Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/manganis-0.6.2/src/hash.rs /Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/manganis-0.6.2/src/macro_helpers.rs /Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/manganis-0.6.2/src/../README.md
+
+/Users/kongphopkingpet/Desktop/codework/rust/dioxus-b/target/wasm32-unknown-unknown/wasm-dev/deps/libmanganis-eb435c9678983e5d.rlib: /Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/manganis-0.6.2/src/lib.rs /Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/manganis-0.6.2/src/hash.rs /Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/manganis-0.6.2/src/macro_helpers.rs /Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/manganis-0.6.2/src/../README.md
+
+/Users/kongphopkingpet/Desktop/codework/rust/dioxus-b/target/wasm32-unknown-unknown/wasm-dev/deps/manganis-eb435c9678983e5d.d: /Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/manganis-0.6.2/src/lib.rs /Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/manganis-0.6.2/src/hash.rs /Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/manganis-0.6.2/src/macro_helpers.rs /Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/manganis-0.6.2/src/../README.md
+
+/Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/manganis-0.6.2/src/lib.rs:
+/Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/manganis-0.6.2/src/hash.rs:
+/Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/manganis-0.6.2/src/macro_helpers.rs:
+/Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/manganis-0.6.2/src/../README.md:

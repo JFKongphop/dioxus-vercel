@@ -1,0 +1,10 @@
+/Users/kongphopkingpet/Desktop/codework/rust/dioxus-b/target/wasm-dev/deps/libthread_local-725c148638e39f56.rmeta: /Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/lib.rs /Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/cached.rs /Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/thread_id.rs /Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/unreachable.rs
+
+/Users/kongphopkingpet/Desktop/codework/rust/dioxus-b/target/wasm-dev/deps/libthread_local-725c148638e39f56.rlib: /Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/lib.rs /Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/cached.rs /Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/thread_id.rs /Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/unreachable.rs
+
+/Users/kongphopkingpet/Desktop/codework/rust/dioxus-b/target/wasm-dev/deps/thread_local-725c148638e39f56.d: /Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/lib.rs /Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/cached.rs /Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/thread_id.rs /Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/unreachable.rs
+
+/Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/lib.rs:
+/Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/cached.rs:
+/Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/thread_id.rs:
+/Users/kongphopkingpet/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/unreachable.rs:

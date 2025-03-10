@@ -1,0 +1,1 @@
+{"rustc":6560579996391851404,"features":"[]","declared_features":"[\"web\"]","target":11659636895779589644,"profile":5347358027863023418,"path":11109351166781520760,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"wasm-dev/.fingerprint/dioxus-cli-config-4db5364ab4a0187d/dep-lib-dioxus_cli_config","checksum":false}}],"rustflags":[],"config":2069994364910194474,"compile_kind":0}
